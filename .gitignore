@@ -1,5 +1,6 @@
 *.pdf
-*.cmp
-*.out
-*.tst
-*.dat
+projects/**/*.cmp
+projects/**/*.out
+projects/**/*.tst
+projects/**/*.dat
+tools/**/*.dat
